@@ -1,0 +1,10 @@
+C:\Users\rahav\OneDrive\Desktop\School\Design Patterns\H.W\H.W1\A21 Ex01 Udi 204694053 Nadav 0123456789\A21 Ex01 Udi 204694053 Nadav 0123456789\bin\Debug\A21 Ex01 Udi 204694053 Nadav 0123456789.exe.config
+C:\Users\rahav\OneDrive\Desktop\School\Design Patterns\H.W\H.W1\A21 Ex01 Udi 204694053 Nadav 0123456789\A21 Ex01 Udi 204694053 Nadav 0123456789\bin\Debug\A21 Ex01 Udi 204694053 Nadav 0123456789.exe
+C:\Users\rahav\OneDrive\Desktop\School\Design Patterns\H.W\H.W1\A21 Ex01 Udi 204694053 Nadav 0123456789\A21 Ex01 Udi 204694053 Nadav 0123456789\bin\Debug\A21 Ex01 Udi 204694053 Nadav 0123456789.pdb
+C:\Users\rahav\OneDrive\Desktop\School\Design Patterns\H.W\H.W1\A21 Ex01 Udi 204694053 Nadav 0123456789\A21 Ex01 Udi 204694053 Nadav 0123456789\obj\Debug\A21 Ex01 Udi 204694053 Nadav 0123456789.csprojAssemblyReference.cache
+C:\Users\rahav\OneDrive\Desktop\School\Design Patterns\H.W\H.W1\A21 Ex01 Udi 204694053 Nadav 0123456789\A21 Ex01 Udi 204694053 Nadav 0123456789\obj\Debug\A21_Ex01_Udi_204694053_Nadav_0123456789.Form1.resources
+C:\Users\rahav\OneDrive\Desktop\School\Design Patterns\H.W\H.W1\A21 Ex01 Udi 204694053 Nadav 0123456789\A21 Ex01 Udi 204694053 Nadav 0123456789\obj\Debug\A21_Ex01_Udi_204694053_Nadav_0123456789.Properties.Resources.resources
+C:\Users\rahav\OneDrive\Desktop\School\Design Patterns\H.W\H.W1\A21 Ex01 Udi 204694053 Nadav 0123456789\A21 Ex01 Udi 204694053 Nadav 0123456789\obj\Debug\A21 Ex01 Udi 204694053 Nadav 0123456789.csproj.GenerateResource.cache
+C:\Users\rahav\OneDrive\Desktop\School\Design Patterns\H.W\H.W1\A21 Ex01 Udi 204694053 Nadav 0123456789\A21 Ex01 Udi 204694053 Nadav 0123456789\obj\Debug\A21 Ex01 Udi 204694053 Nadav 0123456789.csproj.CoreCompileInputs.cache
+C:\Users\rahav\OneDrive\Desktop\School\Design Patterns\H.W\H.W1\A21 Ex01 Udi 204694053 Nadav 0123456789\A21 Ex01 Udi 204694053 Nadav 0123456789\obj\Debug\A21 Ex01 Udi 204694053 Nadav 0123456789.exe
+C:\Users\rahav\OneDrive\Desktop\School\Design Patterns\H.W\H.W1\A21 Ex01 Udi 204694053 Nadav 0123456789\A21 Ex01 Udi 204694053 Nadav 0123456789\obj\Debug\A21 Ex01 Udi 204694053 Nadav 0123456789.pdb
