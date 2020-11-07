@@ -14,7 +14,8 @@ namespace DesktopFacebookUI
         public AppManager()
         {
             this.m_loginPage = new FormLogin();
-     
+
+            this.m_loginPage.ShowDialog();
         }
 
 

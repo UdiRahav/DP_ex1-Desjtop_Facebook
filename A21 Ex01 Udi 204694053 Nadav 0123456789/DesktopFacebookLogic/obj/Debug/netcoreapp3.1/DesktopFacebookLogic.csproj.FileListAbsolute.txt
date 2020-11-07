@@ -11,3 +11,9 @@ C:\Users\rahav\OneDrive\Desktop\School\Design Patterns\H.W\H.W1\A21 Ex01 Udi 204
 C:\Users\rahav\OneDrive\Desktop\School\Design Patterns\H.W\H.W1\A21 Ex01 Udi 204694053 Nadav 0123456789\DesktopFacebookLogic\obj\Debug\netcoreapp3.1\DesktopFacebookLogic.dll
 C:\Users\rahav\OneDrive\Desktop\School\Design Patterns\H.W\H.W1\A21 Ex01 Udi 204694053 Nadav 0123456789\DesktopFacebookLogic\obj\Debug\netcoreapp3.1\DesktopFacebookLogic.pdb
 C:\Users\rahav\OneDrive\Desktop\School\Design Patterns\H.W\H.W1\A21 Ex01 Udi 204694053 Nadav 0123456789\DesktopFacebookLogic\obj\Debug\netcoreapp3.1\DesktopFacebookLogic.genruntimeconfig.cache
+C:\Users\Nadav Zalts\Desktop\school\3rd year\sem a\Design Patterns\HW1\DP_ex1-Desktop_Facebook\A21 Ex01 Udi 204694053 Nadav 0123456789\DesktopFacebookLogic\obj\Debug\netcoreapp3.1\DesktopFacebookLogic.csprojAssemblyReference.cache
+C:\Users\Nadav Zalts\Desktop\school\3rd year\sem a\Design Patterns\HW1\DP_ex1-Desktop_Facebook\A21 Ex01 Udi 204694053 Nadav 0123456789\DesktopFacebookLogic\obj\Debug\netcoreapp3.1\DesktopFacebookLogic.AssemblyInfoInputs.cache
+C:\Users\Nadav Zalts\Desktop\school\3rd year\sem a\Design Patterns\HW1\DP_ex1-Desktop_Facebook\A21 Ex01 Udi 204694053 Nadav 0123456789\DesktopFacebookLogic\obj\Debug\netcoreapp3.1\DesktopFacebookLogic.AssemblyInfo.cs
+C:\Users\Nadav Zalts\Desktop\school\3rd year\sem a\Design Patterns\HW1\DP_ex1-Desktop_Facebook\A21 Ex01 Udi 204694053 Nadav 0123456789\DesktopFacebookLogic\obj\Debug\netcoreapp3.1\DesktopFacebookLogic.csproj.CoreCompileInputs.cache
+C:\Users\Nadav Zalts\Desktop\school\3rd year\sem a\Design Patterns\HW1\DP_ex1-Desktop_Facebook\A21 Ex01 Udi 204694053 Nadav 0123456789\DesktopFacebookLogic\obj\Debug\netcoreapp3.1\DesktopFacebookLogic.dll
+C:\Users\Nadav Zalts\Desktop\school\3rd year\sem a\Design Patterns\HW1\DP_ex1-Desktop_Facebook\A21 Ex01 Udi 204694053 Nadav 0123456789\DesktopFacebookLogic\obj\Debug\netcoreapp3.1\DesktopFacebookLogic.pdb

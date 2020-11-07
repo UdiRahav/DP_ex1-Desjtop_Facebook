@@ -16,5 +16,15 @@ namespace DesktopFacebookUI
         {
             InitializeComponent();
         }
+
+        private void buttonLogin_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void FormLogin_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

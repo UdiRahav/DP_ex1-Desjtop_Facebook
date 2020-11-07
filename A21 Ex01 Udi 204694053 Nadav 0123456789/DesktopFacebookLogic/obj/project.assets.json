@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\rahav\\.nuget\\packages\\": {}
+    "C:\\Users\\Nadav Zalts\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rahav\\OneDrive\\Desktop\\School\\Design Patterns\\H.W\\H.W1\\A21 Ex01 Udi 204694053 Nadav 0123456789\\DesktopFacebookLogic\\DesktopFacebookLogic.csproj",
+      "projectUniqueName": "C:\\Users\\Nadav Zalts\\Desktop\\school\\3rd year\\sem a\\Design Patterns\\HW1\\DP_ex1-Desktop_Facebook\\A21 Ex01 Udi 204694053 Nadav 0123456789\\DesktopFacebookLogic\\DesktopFacebookLogic.csproj",
       "projectName": "DesktopFacebookLogic",
-      "projectPath": "C:\\Users\\rahav\\OneDrive\\Desktop\\School\\Design Patterns\\H.W\\H.W1\\A21 Ex01 Udi 204694053 Nadav 0123456789\\DesktopFacebookLogic\\DesktopFacebookLogic.csproj",
-      "packagesPath": "C:\\Users\\rahav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rahav\\OneDrive\\Desktop\\School\\Design Patterns\\H.W\\H.W1\\A21 Ex01 Udi 204694053 Nadav 0123456789\\DesktopFacebookLogic\\obj\\",
+      "projectPath": "C:\\Users\\Nadav Zalts\\Desktop\\school\\3rd year\\sem a\\Design Patterns\\HW1\\DP_ex1-Desktop_Facebook\\A21 Ex01 Udi 204694053 Nadav 0123456789\\DesktopFacebookLogic\\DesktopFacebookLogic.csproj",
+      "packagesPath": "C:\\Users\\Nadav Zalts\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nadav Zalts\\Desktop\\school\\3rd year\\sem a\\Design Patterns\\HW1\\DP_ex1-Desktop_Facebook\\A21 Ex01 Udi 204694053 Nadav 0123456789\\DesktopFacebookLogic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rahav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nadav Zalts\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
